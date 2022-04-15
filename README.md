@@ -10,3 +10,7 @@ Sign language is the basic way of verbal communication for deaf and dumb people.
 Dataset link: https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence
 
 The Covid-19 pandemic created havoc around the world. There are different sorts of symptoms of this virus which helps to detect and classify Covid affected and non-covid affected patients. In this work, four different machine learning algorithms such as Decision Tree, Naive Bayes, Neural Network and Random Forest were implemented to choose the best algorithm based on the accuracy and detect Covid-19 accurately based on their symptoms.
+
+# K-means Clustering Using Elbow Method
+Dataset link: https://github.com/NasimBahadur/Machine-Learning/blob/main/Dataset/kmeans-data.csv
+In this work, I tried to find out the optimum number of cluster for the given dataset using Elbow Method.
