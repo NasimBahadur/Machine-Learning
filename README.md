@@ -1,5 +1,3 @@
-# Machine Learning related works
-
 # Sign Language Recognition
 Dataset link: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
