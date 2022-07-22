@@ -1,3 +1,3 @@
 # Potato Disease Classification# 
-Dataset: [https://www.kaggle.com/arjuntejaswi/plant-village]
+Dataset Link : [https://www.kaggle.com/arjuntejaswi/plant-village]
 
